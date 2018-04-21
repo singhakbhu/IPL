@@ -1,0 +1,38 @@
+Dataset: IPL
+
+Exercise:1
+==========
+Find the count of teams in each season
+
+
+
+Exercise:2
+==========
+Find the runs scored by each team in all the matches of every season
+
+
+
+Exercise 3:
+===========
+Find the runs scored by KKR in all the matches of every season. Also print the opposition team name
+
+
+
+
+Exercise 4:
+===========
+Find the maximum runs scored by KKR till now, against which team and in which season
+
+
+
+Exercise 5:
+===========
+Find the names of all the teams who have played the IPL till now
+
+
+
+
+Exercise 6:
+===========
+Find the count of teams for each season
+
