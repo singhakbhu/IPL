@@ -1,0 +1,3 @@
+The dataset contains 2 files: 
+deliveries.csv: It is the ball-by-ball data of all the IPL matches including data of the batting team, batsman, bowler, non-striker, runs scored, etc.
+matches.csv : It contains details related to the match such as location, contesting teams, umpires, results, etc. 
