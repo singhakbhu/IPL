@@ -6,6 +6,6 @@ It has data from 2008 till 2016.
 
 It has 2 data files:
 
-matches2.csv: This data file contains record of each match of IPL.
+-deliveries.csv: It is the ball-by-ball data of all the IPL matches including data of the batting team, batsman, bowler, non-striker, runs scored, etc.
 
-deliveries.csv: This file contains record of each delivery of all the matches
+-matches.csv : It contains details related to the match such as location, contesting teams, umpires, results, etc.
